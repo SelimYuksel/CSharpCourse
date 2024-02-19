@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{DE02E599-8009-468B-9FA9-4A68461CAAAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingDemo1", "ThreadingDemo1\ThreadingDemo1.csproj", "{A70D603A-14BD-46D8-9573-53FD6115237B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject", "LinqProject\LinqProject.csproj", "{8F2BCC41-D09B-41CC-A37F-9A4B8BFD3386}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{DE02E599-8009-468B-9FA9-4A68461CAAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE02E599-8009-468B-9FA9-4A68461CAAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE02E599-8009-468B-9FA9-4A68461CAAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A70D603A-14BD-46D8-9573-53FD6115237B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A70D603A-14BD-46D8-9573-53FD6115237B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A70D603A-14BD-46D8-9573-53FD6115237B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A70D603A-14BD-46D8-9573-53FD6115237B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F2BCC41-D09B-41CC-A37F-9A4B8BFD3386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F2BCC41-D09B-41CC-A37F-9A4B8BFD3386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F2BCC41-D09B-41CC-A37F-9A4B8BFD3386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F2BCC41-D09B-41CC-A37F-9A4B8BFD3386}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
